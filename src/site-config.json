@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Fun n Sun LLC",
+    "phone": "+14806735215",
+    "category": "deck contractor",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix's Deck Experts",
+      "heroSubline": "Built to Last Under the Arizona Sun. Quality Craftsmanship, Guaranteed.",
+      "aboutTitle": "Built on Trust, Crafted for the Desert",
+      "aboutText": [
+        "Fun n Sun LLC started with a simple mission: to build decks that not only look great but can withstand the harsh Arizona climate. We're a family-owned business, born and raised right here in Phoenix, and we understand the unique challenges our desert environment poses.",
+        "Our approach is straightforward: meticulous planning, quality materials, and skilled craftsmanship. We're not just building decks; we're creating outdoor living spaces designed for relaxation and entertainment, tailored to your specific needs and preferences.",
+        "We're committed to giving back to the community that has supported us. We actively participate in local events and donate a portion of our profits to Phoenix-based charities. We believe in building strong relationships with our clients and neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Ready Designs",
+          "description": "We specialize in decks built to withstand Phoenix's extreme heat and monsoon seasons."
+        },
+        {
+          "title": "Customized Solutions",
+          "description": "From initial design to final installation, we tailor every project to your unique vision and property."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium, durable materials proven to hold up against the Arizona sun and weather."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise construction and lasting performance."
+        }
+      ],
+      "ctaHeadline": "Transform Your Backyard Today",
+      "ctaSubline": "Get a free quote and start planning your dream deck with Fun n Sun LLC."
+    },
+    "services": [
+      {
+        "slug": "custom-deck-design",
+        "name": "Custom Deck Design",
+        "shortDescription": "Transform your outdoor space with a deck designed specifically for your lifestyle and property.",
+        "description": "Our custom deck design service is all about bringing your vision to life. We start with a thorough consultation to understand your needs, preferences, and budget. We'll consider your home's architecture, the surrounding landscape, and how you plan to use your deck. We will then create detailed 3D renderings to help you visualize the final product. We handle all aspects of the design process, from material selection to layout planning to ensure the deck complements your home and maximizes your outdoor living space. We focus on low-maintenance solutions that stand up to the Arizona sun. Our designs prioritize both aesthetics and functionality, ensuring a seamless blend of style and practicality. We also take into account factors like shade, privacy, and accessibility to create a truly personalized outdoor oasis.",
+        "process": [
+          "Step 1: Initial Consultation - Discuss your vision, needs, and budget.",
+          "Step 2: Site Assessment - Evaluate your property and existing structures.",
+          "Step 3: Design Development - Create 3D renderings and refine the design.",
+          "Step 4: Material Selection - Choose the perfect materials for your style and climate."
+        ],
+        "benefits": [
+          "Personalized design tailored to your needs",
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Professional guidance from start to finish"
+        ],
+        "faq": [
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 2-4 weeks, depending on the complexity of the project and the number of revisions required."
+          },
+          {
+            "question": "What types of materials do you offer?",
+            "answer": "We offer a wide range of materials, including wood, composite, and PVC decking, each with its own unique benefits and aesthetic qualities. We can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "Can you incorporate existing features into the design?",
+            "answer": "Yes, we can seamlessly integrate existing features like trees, patios, and pools into your deck design. We strive to create a cohesive and harmonious outdoor space."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction-installation",
+        "name": "Deck Construction & Installation",
+        "shortDescription": "Expert deck construction and installation services to bring your custom design to life.",
+        "description": "Our deck construction and installation service is where precision meets craftsmanship. With years of experience building decks throughout the Phoenix metro area, we understand the importance of quality construction and attention to detail. We use only the highest-grade materials and employ proven construction techniques to ensure your deck is not only beautiful but also structurally sound and long-lasting. Our team of skilled carpenters is meticulous in their work, ensuring every board is perfectly aligned and every connection is secure. We handle all aspects of the construction process, from site preparation to final inspection, ensuring a seamless and stress-free experience for our clients. We are permitted and insured for all work performed. We take pride in our work and stand behind our craftsmanship.",
+        "process": [
+          "Step 1: Site Preparation - Clear the area and prepare the foundation.",
+          "Step 2: Framing - Construct the deck's structural framework.",
+          "Step 3: Decking Installation - Install the decking boards with precision.",
+          "Step 4: Finishing Touches - Add railings, stairs, and other features."
+        ],
+        "benefits": [
+          "Durable and long-lasting construction",
+          "Expert installation by skilled professionals",
+          "Compliance with all building codes and regulations",
+          "Peace of mind knowing your deck is built to last"
+        ],
+        "faq": [
+          {
+            "question": "How long does deck construction typically take?",
+            "answer": "Construction time varies depending on the size and complexity of the deck, but most projects are completed within 1-3 weeks."
+          },
+          {
+            "question": "Do you obtain the necessary permits?",
+            "answer": "Yes, we handle all necessary permits and inspections to ensure your deck meets all local building codes and regulations."
+          },
+          {
+            "question": "What type of warranty do you offer?",
+            "answer": "We offer a comprehensive warranty on both materials and workmanship, providing you with peace of mind knowing your investment is protected."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair-maintenance",
+        "name": "Deck Repair & Maintenance",
+        "shortDescription": "Keep your deck looking its best with our comprehensive repair and maintenance services.",
+        "description": "Arizona's intense sun and occasional monsoon storms can take a toll on your deck. Our deck repair and maintenance service is designed to keep your deck in top condition, extending its lifespan and preserving its beauty. We offer a wide range of services, including board replacement, railing repair, staining and sealing, and structural reinforcement. We can address issues such as water damage, wood rot, insect infestation, and faded finishes. Our team of experienced technicians will thoroughly inspect your deck, identify any problems, and provide you with a detailed plan for repair and maintenance. We use only high-quality products and proven techniques to ensure lasting results. Regular maintenance can prevent costly repairs down the road and keep your deck looking its best for years to come.",
+        "process": [
+          "Step 1: Inspection - Thoroughly assess the condition of your deck.",
+          "Step 2: Cleaning - Remove dirt, debris, and mildew.",
+          "Step 3: Repair - Replace damaged boards and repair structural issues.",
+          "Step 4: Sealing/Staining - Protect and beautify your deck."
+        ],
+        "benefits": [
+          "Extended deck lifespan",
+          "Improved safety and stability",
+          "Enhanced aesthetic appeal",
+          "Prevention of costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I seal or stain my deck?",
+            "answer": "In Phoenix's climate, it's generally recommended to seal or stain your deck every 1-2 years to protect it from the sun and moisture."
+          },
+          {
+            "question": "What are the signs that my deck needs repair?",
+            "answer": "Signs of deck damage include cracked or warped boards, loose railings, wobbly posts, and signs of wood rot or insect infestation."
+          },
+          {
+            "question": "Can you repair decks made of composite materials?",
+            "answer": "Yes, we are experienced in repairing decks made of all types of materials, including wood, composite, and PVC."
+          }
+        ]
+      },
+      {
+        "slug": "patio-covers",
+        "name": "Patio Covers",
+        "shortDescription": "Extend your outdoor enjoyment with a custom-designed patio cover.",
+        "description": "Escape the Arizona heat with a custom-designed patio cover from Fun n Sun LLC. We offer a variety of patio cover options, including solid roof structures, lattice covers, and shade sails, to provide the perfect balance of shade and ventilation for your outdoor space. Our patio covers are designed to complement your home's architecture and enhance your outdoor living experience. We use durable, weather-resistant materials that can withstand the harsh Arizona sun and monsoon rains. Our team of experienced builders will handle all aspects of the design and installation process, ensuring a seamless and stress-free experience. A patio cover can transform your backyard into a comfortable and inviting space for relaxing, entertaining, and enjoying the outdoors year-round. We handle all required permitting.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your shade needs and aesthetic preferences.",
+          "Step 2: Structural Planning - Engineer safe and reliable support.",
+          "Step 3: Cover Installation - Build the patio cover.",
+          "Step 4: Finishing Touches - Add trim and paint."
+        ],
+        "benefits": [
+          "Protection from the sun and rain",
+          "Increased outdoor living space",
+          "Enhanced aesthetic appeal",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What materials are patio covers made of?",
+            "answer": "Patio covers can be made from aluminum, wood, or vinyl. Each has different benefits regarding cost, maintenance, and aesthetics."
+          },
+          {
+            "question": "Do I need a permit for a patio cover?",
+            "answer": "Yes, most cities require a permit for patio covers. We will handle the permitting process for you."
+          },
+          {
+            "question": "How much shade will a patio cover provide?",
+            "answer": "The amount of shade depends on the type of cover and the orientation of your patio. We can help you choose a cover that provides the desired amount of shade."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-gazebos",
+        "name": "Pergolas & Gazebos",
+        "shortDescription": "Add architectural interest and shade to your yard with a custom pergola or gazebo.",
+        "description": "Enhance your outdoor living space with a beautiful pergola or gazebo from Fun n Sun LLC. These structures not only add architectural interest to your yard but also provide shade and a focal point for relaxation and entertainment. We offer a variety of pergola and gazebo designs, from traditional to contemporary, to complement your home's style and your personal taste. We use high-quality materials that are both durable and aesthetically pleasing. Our team of skilled craftsmen will handle all aspects of the design and construction process, ensuring a seamless and professional installation. Whether you're looking for a shady spot to relax with a book or a charming setting for outdoor gatherings, a pergola or gazebo can transform your backyard into a true oasis.",
+        "process": [
+          "Step 1: Design - Discuss your space and style preferences.",
+          "Step 2: Material Selection - Choose the right materials for looks and longevity.",
+          "Step 3: Construction - Build the structure according to code.",
+          "Step 4: Finishing - Stain or paint the pergola/gazebo."
+        ],
+        "benefits": [
+          "Adds architectural interest to your yard",
+          "Provides shade and shelter",
+          "Creates a focal point for relaxation",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between a pergola and a gazebo?",
+            "answer": "A pergola is an open structure with a latticed roof, while a gazebo is a freestanding structure with a solid roof."
+          },
+          {
+            "question": "What materials are pergolas and gazebos made of?",
+            "answer": "Pergolas and gazebos can be made from wood, vinyl, or metal."
+          },
+          {
+            "question": "Do I need a permit for a pergola or gazebo?",
+            "answer": "Permit requirements vary depending on the size and location of the structure. We can help you determine if a permit is required and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "deck-lighting-installation",
+        "name": "Deck Lighting Installation",
+        "shortDescription": "Illuminate your outdoor living space with professional deck lighting installation.",
+        "description": "Extend the enjoyment of your deck into the evening hours with our professional deck lighting installation service. We offer a variety of lighting options, including LED deck lights, string lights, and spotlights, to create the perfect ambiance for your outdoor space. Our team of experienced electricians will safely and efficiently install your deck lighting, ensuring it is both functional and aesthetically pleasing. We can help you choose the right lighting fixtures and placement to highlight your deck's features, create a warm and inviting atmosphere, and enhance safety and security. With professionally installed deck lighting, you can enjoy your outdoor living space long after the sun goes down.",
+        "process": [
+          "Step 1: Design Consultation - Choosing the right lighting for your deck.",
+          "Step 2: Wiring and Installation - Safe and professional electrical work.",
+          "Step 3: Fixture Placement - Strategic placing for both beauty and function.",
+          "Step 4: Testing - Ensuring all lights are working correctly."
+        ],
+        "benefits": [
+          "Enhanced safety and security",
+          "Extended outdoor living space",
+          "Increased aesthetic appeal",
+          "Professional and reliable installation"
+        ],
+        "faq": [
+          {
+            "question": "What type of lighting is best for a deck?",
+            "answer": "LED lighting is a popular choice for decks due to its energy efficiency, long lifespan, and variety of color options."
+          },
+          {
+            "question": "Is it safe to install deck lighting myself?",
+            "answer": "Electrical work can be dangerous. It is best to hire a qualified electrician to install deck lighting."
+          },
+          {
+            "question": "How much does deck lighting installation cost?",
+            "answer": "The cost of deck lighting installation varies depending on the type of lighting, the size of the deck, and the complexity of the installation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC is proud to offer our deck construction and renovation services to the residents of Scottsdale, Arizona. Scottsdale is known for its beautiful luxury Southwestern estates and stunning desert landscapes. We understand the unique architectural styles and climate considerations of Scottsdale homes, and we're committed to building decks that seamlessly integrate with your property's aesthetic while providing a durable and comfortable outdoor living space.\n\nOur team has extensive experience working with Scottsdale homeowners to design and build custom decks that meet their specific needs and preferences. Whether you're looking for a spacious multi-level deck for entertaining or a cozy retreat for relaxing, we can help you create the perfect outdoor space. We use only the highest quality materials and construction techniques to ensure that your deck will withstand the extreme summer heat exceeding 110F and provide years of enjoyment.",
+        "localContext": "Scottsdale is characterized by luxury Southwestern estates and intense summer heat exceeding 110F, requiring decks built to withstand the elements.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC provides expert deck services in Mesa, Arizona. Mesa is known for its many 1970s-80s stucco homes. We understand the specific challenges and opportunities presented by these properties, and we're adept at designing and building decks that complement their existing architecture while enhancing their functionality and curb appeal.\n\nWe offer a wide range of deck services in Mesa, including new deck construction, deck repairs, and deck renovations. Our team is skilled in working with a variety of materials, including wood, composite, and vinyl, and we can help you choose the best option for your needs and budget. We also offer deck staining and sealing services to protect your deck from the extreme summer heat exceeding 110F and other elements.",
+        "localContext": "Mesa features many 1970s-80s stucco homes, with summer heat exceeding 110F, requiring durable and well-maintained decks.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC is your trusted deck contractor in Chandler, Arizona. Chandler is known for its many 1990s-2000s planned developments. We have extensive experience working with homeowners in these communities to design and build decks that meet their HOA requirements and enhance their outdoor living spaces.\n\nWe understand the importance of creating a deck that is both functional and aesthetically pleasing. Our team will work closely with you to understand your needs and preferences and to develop a design that perfectly complements your home. We use only the highest quality materials and construction techniques to ensure that your deck will withstand the extreme summer heat exceeding 110F and provide years of enjoyment.",
+        "localContext": "Chandler's planned developments from the 1990s-2000s need decks that meet HOA guidelines and withstand extreme summer heat exceeding 110F.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC proudly serves Gilbert, Arizona, providing top-quality deck construction and renovation services. Gilbert is known for its newer construction from the 2000s-2020s. We are familiar with the latest building trends and materials, ensuring that your new deck is both stylish and durable.\n\nWe offer a comprehensive range of deck services, from initial design and planning to final construction and finishing. Our team is committed to providing excellent customer service and ensuring that you are completely satisfied with your new deck. We understand the challenges posed by the extreme summer heat exceeding 110F in Gilbert, and we use materials and construction techniques that are designed to withstand these harsh conditions.",
+        "localContext": "Gilbert features newer construction from the 2000s-2020s, demanding modern deck designs and materials that can withstand the extreme summer heat exceeding 110F.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC is pleased to offer our deck services to the residents of Tempe, Arizona. Tempe, home to Arizona State University, features many university-area homes. We understand the unique needs and preferences of Tempe homeowners, and we're committed to providing deck solutions that are both stylish and functional.\n\nWhether you're looking to create a relaxing outdoor space for studying or a lively entertainment area for hosting friends, we can help you design and build the perfect deck. We offer a wide range of materials and styles to choose from, and we're always happy to provide expert advice and guidance. We also offer deck repair and maintenance services to help you keep your deck looking its best for years to come, despite the extreme summer heat exceeding 110F.",
+        "localContext": "Tempe's university-area homes near ASU require decks suited for student life and able to endure the extreme summer heat exceeding 110F.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC is proud to call Phoenix, Arizona home and offer comprehensive deck building services throughout the city. Phoenix, being the state's capital and a major metropolitan area, features a diverse range of architectural styles and neighborhood characteristics. We are experienced in working with all types of properties, from historic homes to modern new builds.\n\nOur Phoenix clients seek high quality decks to extend their outdoor living spaces. We take into account the extreme summer heat exceeding 110F when designing decks, opting for materials and construction techniques that maximize shade, ventilation, and durability. Whether you're looking for a simple patio deck or a multi-level masterpiece, Fun n Sun LLC can bring your vision to life.",
+        "localContext": "Phoenix's diverse neighborhoods need decks built to withstand extreme summer heat exceeding 110F, and tailored to diverse architectural styles.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Tempe",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC provides deck design, construction, and repair services in Paradise Valley, Arizona. Paradise Valley is known for its luxury homes and upscale living. We understand the high standards of homeowners in this area and strive to exceed expectations with every project.\n\nWe use only the finest materials and employ skilled craftsmen to create decks that are both beautiful and durable. We work closely with our clients to ensure that their new deck perfectly complements their home and lifestyle. Our decks are built to withstand the extreme summer heat exceeding 110F and provide years of enjoyment.",
+        "localContext": "Paradise Valley's luxury homes require high-end decks built to withstand the extreme summer heat exceeding 110F, and tailored to the unique architecture of the area.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC offers deck construction and renovation services in Queen Creek, Arizona. Queen Creek is a rapidly growing community with many newer homes and family-friendly amenities. We understand the needs of Queen Creek homeowners and are committed to providing affordable and reliable deck services.\n\nWe offer a variety of deck styles and materials to choose from, and we can help you design a deck that fits your budget and lifestyle. We also offer deck repair and maintenance services to help you keep your deck looking its best. Our decks are built to withstand the extreme summer heat exceeding 110F.",
+        "localContext": "Queen Creek residents need decks that are family-friendly, affordable, and built to withstand the extreme summer heat exceeding 110F.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "San Tan Valley"
+        ]
+      },
+      {
+        "city": "Fountain Hills",
+        "slug": "fountain-hills-az",
+        "state": "AZ",
+        "content": "Fun n Sun LLC is proud to serve the residents of Fountain Hills, Arizona, with our expert deck construction and maintenance services. Fountain Hills is known for its unique geography and stunning views. We specialize in designing decks that take full advantage of these views while providing a comfortable and functional outdoor living space.\n\nWe understand the specific challenges of building decks in Fountain Hills, including the rocky terrain and the extreme summer heat exceeding 110F. We use durable materials and construction techniques that are designed to withstand these conditions and provide years of enjoyment. Whether you're looking for a simple patio deck or a multi-level deck with a custom railing, we can help you create the perfect outdoor space.",
+        "localContext": "Fountain Hills decks must be designed to maximize views, handle rocky terrain, and withstand the extreme summer heat exceeding 110F.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Rio Verde",
+          "Mesa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Custom Deck Design & Installation",
+        "text": "Fun n Sun transformed our backyard in Arcadia! They designed a beautiful deck that perfectly complements our home and provides a wonderful space for entertaining. The crew was professional, efficient, and the quality of work is outstanding. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck had some serious wood rot, but Fun n Sun fixed it right up. They replaced the damaged boards and sealed the whole thing. It looks great, and I feel much safer now. Good, solid work at a fair price. Thanks!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Karen B.",
+        "rating": 5,
+        "service": "Patio Cover Installation",
+        "text": "We had Fun n Sun install a patio cover, and it's amazing! Now we can sit outside even in the hottest part of the day. The team was great to work with, and they finished the project quickly. So happy!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "We hired Fun n Sun to build a custom pergola in our backyard. It's exactly what we wanted and adds so much character to our outdoor space. The craftsmanship is excellent, and the team was a pleasure to work with.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Deck Lighting Installation",
+        "text": "The deck lighting that Fun n Sun installed is perfect. It creates a beautiful ambiance in the evening, and we're able to enjoy our deck even after dark. The installation was quick and professional.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Deck Sealing",
+        "text": "Fun n Sun resealed my deck, and it looks brand new. They were very thorough and paid attention to every detail. I'm confident that my deck will be protected from the elements for years to come. Great service!",
+        "date": "2025-02-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Phoenix Deck Contractor | Fun n Sun LLC",
+        "description": "Custom decks, patio covers & more in Phoenix, AZ. Built to last. Call Fun n Sun LLC for a free quote!"
+      },
+      "about": {
+        "title": "About Fun n Sun LLC | Phoenix Deck Builders",
+        "description": "Learn about Fun n Sun LLC: Phoenix deck contractors, our values, and commitment to quality. Serving the Valley since 2012."
+      },
+      "services": {
+        "title": "Deck Services | Phoenix AZ | Fun n Sun LLC",
+        "description": "Phoenix's best deck services: Custom decks, repairs, patio covers, pergolas, lighting. Built for the Arizona climate."
+      },
+      "contact": {
+        "title": "Contact Fun n Sun LLC | Phoenix Deck Experts",
+        "description": "Contact Fun n Sun LLC for deck design, repair, and installation. Get a free quote today! Call +14806735215"
+      },
+      "reviews": {
+        "title": "Fun n Sun LLC Reviews | Phoenix Deck Contractor",
+        "description": "Read reviews for Fun n Sun LLC: Phoenix deck contractor. See why Valley homeowners trust us for quality decks and patio covers."
+      },
+      "service-areas": {
+        "title": "Service Areas | Phoenix Deck Contractor",
+        "description": "Fun n Sun LLC serves Phoenix, Scottsdale, Mesa, Chandler, Gilbert, Tempe. Quality decks built for the Arizona climate."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-deck-design": "/images/service-custom-deck-design.webp",
+      "deck-construction-installation": "/images/service-deck-construction-installation.webp",
+      "deck-repair-maintenance": "/images/service-deck-repair-maintenance.webp",
+      "patio-covers": "/images/service-patio-covers.webp",
+      "pergolas-gazebos": "/images/service-pergolas-gazebos.webp",
+      "deck-lighting-installation": "/images/service-deck-lighting-installation.webp"
+    },
+    "servicesResponsive": {
+      "custom-deck-design": {
+        "src": "/images/service-custom-deck-design.webp",
+        "srcset": "/images/service-custom-deck-design-400w.webp 400w, /images/service-custom-deck-design-800w.webp 800w, /images/service-custom-deck-design-1200w.webp 1200w, /images/service-custom-deck-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction-installation": {
+        "src": "/images/service-deck-construction-installation.webp",
+        "srcset": "/images/service-deck-construction-installation-400w.webp 400w, /images/service-deck-construction-installation-800w.webp 800w, /images/service-deck-construction-installation-1200w.webp 1200w, /images/service-deck-construction-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair-maintenance": {
+        "src": "/images/service-deck-repair-maintenance.webp",
+        "srcset": "/images/service-deck-repair-maintenance-400w.webp 400w, /images/service-deck-repair-maintenance-800w.webp 800w, /images/service-deck-repair-maintenance-1200w.webp 1200w, /images/service-deck-repair-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-covers": {
+        "src": "/images/service-patio-covers.webp",
+        "srcset": "/images/service-patio-covers-400w.webp 400w, /images/service-patio-covers-800w.webp 800w, /images/service-patio-covers-1200w.webp 1200w, /images/service-patio-covers.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-gazebos": {
+        "src": "/images/service-pergolas-gazebos.webp",
+        "srcset": "/images/service-pergolas-gazebos-400w.webp 400w, /images/service-pergolas-gazebos-800w.webp 800w, /images/service-pergolas-gazebos-1200w.webp 1200w, /images/service-pergolas-gazebos.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-lighting-installation": {
+        "src": "/images/service-deck-lighting-installation.webp",
+        "srcset": "/images/service-deck-lighting-installation-400w.webp 400w, /images/service-deck-lighting-installation-800w.webp 800w, /images/service-deck-lighting-installation-1200w.webp 1200w, /images/service-deck-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
